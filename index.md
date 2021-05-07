@@ -1,8 +1,27 @@
 ## Welcome to GitHub Pages
+<table>
 
+  
+      
 [Create Your App](Download-Your-App.html)
+ 
+  
+    
+    
+ 
+      
 [Register Account](Register.html)
-[Thank You]{Thank-You-Create.html}
+
+   
+  
+
+  
+   
+[Thank You](Thank-You-Create.html)
+
+   
+    
+  </table>
 
 You can use the [editor on GitHub](https://github.com/lexylynn21/SocialButterfly/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
